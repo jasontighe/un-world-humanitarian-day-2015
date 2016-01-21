@@ -1,0 +1,34 @@
+.DonorGrid {
+  #gridArea {
+    //background: #CCFF32;
+
+    .ratioBox {
+      position: relative;
+      width: 100%;
+      overflow: hidden;
+    }
+
+    .ratioBox:before{
+      content: "";
+      display: block;
+      padding-top: 100%; 	/* initial ratio of 1:1*/
+    }
+
+    .ratioContent {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+
+    .ratio8_5:before{
+      padding-top: 62.5%;
+    }
+
+    .ratio3_7:before{
+      padding-top: 233%;
+    }
+    /* Box with fixed aspect ratio */
+  }
+}

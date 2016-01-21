@@ -1,0 +1,321 @@
+{
+  "carouselDonateCopy": "تبرع بالنشر",
+  "carouselFollowCopy": "تابع القصة",
+  "counterDesc": "التبرع بالمحتوى الشخصي لشبكات التواصل الإجتماعي لسرد القصص الإنسانية ",
+  "counterHeadline": "شارك الإنسانية وانضم إلى جميع المساهمين الذين تبرعوا بالفعل بالنشر. ",
+  "donateFeedCTA": "تبرع بالنشر",
+  "videoYouTubeID": "o1--l9VjUbk",
+  "emailTitle": "سجل لمزيد من المعلومات",
+  "emailDesc": "رسل الإنسانية هي عبارة عن ملتقى عبر الإنترنت لمجموعة من المشاركين لهم أثر في عالمنا ويعلمون جيداً مدى القوة الكامنة في وسائل الإعلام الاجتماعية ويدركون أن التوعية هي حجر الأساس نحو التغيير، وهم لأجل ذلك يُسخِّرون شبكاتهم الاجتماعية في توجيه انتباه الآخرين إلى قضايا تحتاج إلى توعية الآخرين بها.        ",
+  "emailPlaceholder": "عنوان بريدك الإلكتروني",
+  "emailCTA": "إرسال",
+  "emailThankYou": "شكرا",
+  "footerAbout": "عن اليوم العالمي للعمل الإنساني ",
+  "footerDonate": "تبرع لصندوق مواجهة الطوارئ ",
+  "footerFollow": "تابعنا",
+  "partners": "الشركاء",
+  "partnerLinks": [
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/OCHA.jpg",
+      "alt": "OCHA",
+      "link": "http://www.unocha.org/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/UnitedNations.png",
+      "alt": "united nations foundation",
+      "link": "http://www.unfoundation.org/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/OgilvyOne.png",
+      "alt": "Ogilvy One",
+      "link": "https://www.ogilvyone.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Buzzfeed.png",
+      "alt": "Buzzfeed",
+      "link": "http://www.buzzfeed.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/CNN-Money.png",
+      "alt": "CNN money",
+      "link": "http://money.cnn.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/DailyMail.png",
+      "alt": "Dailymail.com elite daily",
+      "link": "http://www.dailymail.co.uk/ushome/index.html"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/exponential.png",
+      "alt": "expotential",
+      "link": "http://exponential.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Hogarth.png",
+      "alt": "Hogarth",
+      "link": "http://www.hogarthww.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Kinetic.png",
+      "alt": "Kinetic",
+      "link": "http://kineticww.com/us/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Global-Citizen.png",
+      "alt": "Global citizen",
+      "link": "https://www.globalcitizen.org/en/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/CNN.png",
+      "alt": "CNN",
+      "link": "http://www.cnn.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Verifone-Media.png",
+      "alt": "verifone media",
+      "link": "http://www.verifonemedia.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Social-Toaster.png",
+      "alt": "Social toaster",
+      "link": "http://www.socialtoaster.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Sprefast.png",
+      "alt": "Spredfast",
+      "link": "https://www.spredfast.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/TimeInc.png",
+      "alt": "Time inc",
+      "link": "http://www.timeinc.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Yahoo.png",
+      "alt": "Yahoo",
+      "link": "https://www.yahoo.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/ADIANT.png",
+      "alt": "ADIANT",
+      "link": "http://www.adiant.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/ICVA.png",
+      "alt": "ICVA",
+      "link": "https://icvanetwork.org/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Brand-Cities.png",
+      "alt": "Branded Cities New York",
+      "link": "http://brandedcities.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Citizen-AOL.png",
+      "alt": "Citizen AOL",
+      "link": "http://corp.aol.com/our-values/corporate-citizenship"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/HerokuLogo.jpg",
+      "alt": "Heroku",
+      "link": "https://www.heroku.com/home"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/izea_logo_black.jpg",
+      "alt": "IZEA",
+      "link": "https://izea.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/H_O.jpg",
+      "alt": "H&O",
+      "link": "http://www.ogilvy.com/About/Network/HO.aspx"
+    }
+  ],
+  "carousel": [
+    {
+      "firstName": "لانج لانج",
+      "lastName": "",
+      "title": "قام لانج لانج بنشر قصة د. كارش، النجاة من زلزال نيبال",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-LangLang.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-LangLang.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-nepal-stroke.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-nepal-stroke-mobile.jpg",
+      "navCopy": "التبرع تغذية له ل",
+      "navCopyName": "د. كارش",
+      "link": "/surviving"
+    },
+    {
+      "firstName": "كودي سيمبسون",
+      "lastName": "",
+      "role": "",
+      "title": "قام كودي سيمبسون بنشر قصة ثائر من دمشق إلى برلين: رحلة نجاة",
+      "profileImage": " http://res.cloudinary.com/hadpuw6bl/home/64x64-CodySimpson.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-CodySimpson.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-damascus.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-skateistan-mobile.jpg",
+      "navCopy": "التبرع تغذية له ل",
+      "navCopyName": "ثائر آورفيلي",
+      "link": "/damascus"
+    },
+    {
+      "firstName": "كاكا",
+      "lastName": "",
+      "title": "قام كاكا بنشر قصة نوري شاربا، رحلة لإنقاذ الآخرين في نيبال",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kaka.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kaka.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-nepal-mountain.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-nepal-mountain-mobile.jpg",
+      "navCopy": "التبرع تغذية له ل",
+      "navCopyName": "نوري شاربا",
+      "link": "/trekking"
+    },
+    {
+      "firstName": "ليونا لويس",
+      "lastName": "",
+      "title": "قامت لوينا لويس بنشر قصة خالد، رضيع في الأنقاض - قصة الخوذ البيضاء في سوريا",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Leona.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Leona.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-miracle-baby.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-miracle-baby-mobile.jpg",
+      "navCopy": "التبرع إطعامها ل",
+      "navCopyName": "خالد فرح",
+      "link": "/whitehelmets"
+    },
+    {
+      "firstName": "شاي ميتشل",
+      "lastName": "",
+      "title": "قامتشاي ميتشل بنشر قصة أوليفر - أهلا بكم في سكيستان",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Shay.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Shay.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-skateistan.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-skateistan-mobile.jpg",
+      "navCopy": "التبرع إطعامها ل",
+      "navCopyName": "أوليفر",
+      "link": "/skateistan"
+    },
+    {
+      "firstName": "كينا",
+      "lastName": "",
+      "title": "قام كينا بنشر قصة أنور - أكروبات في الأردن",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kenna.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kenna.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-circus.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-circus-mobile.jpg",
+      "navCopy": "التبرع تغذية له ل",
+      "navCopyName": "أنور أبوجيش",
+      "link": "/circus"
+    }
+  ],
+  "celebYoutubeID": {
+      "beyonce": "k4YRWT_Aldo",
+      "drake": "CccnAvfLPvE"
+  },
+  "gridCelebrities": [
+    {
+      "name": "كودي سيمبسون",
+      "time": "08.12 6:00AM",
+      "title": "التعريف عن قصة ثائر آورفيلي",
+      "desc": "من دمشق إلى برلين – رحلة نجاة",
+      "link": "/damascus",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-CodySimpson.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/grid-cody-simpson.png"
+    },
+    {
+      "name": "كينا",
+      "time": "08.12 6:00AM",
+      "title": "التعريف عن قصة أنور أبوجيش",
+      "desc": "أكروبات في الأردن",
+      "link": "/circus",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kenna.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/320x320-Kenna.jpg"
+    },
+    {
+      "name": "لانج لانج",
+      "time": "08.12 6:00AM",
+      "title": "التعريف عن قصة د. كارش",
+      "desc": "النجاة من زلزال نيبال",
+      "link": "/surviving",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-LangLang.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/grid-lang-lang.png"
+    },
+    {
+      "name": "شاي ميتشل",
+      "time": "08.12 6:00AM",
+      "title": "التعريف عن قصة أوليفر",
+      "desc": "أهلا بكم في سكيستان",
+      "link": "/skateistan",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Shay.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/320x320-Shay.jpg"
+    },
+    {
+      "name": "ليونا لويس",
+      "time": "08.12 6:00AM",
+      "title": "التعريف عن قصة خالد فرح",
+      "desc": "رضيع وسط الأنقاض",
+      "link": "/whitehelmets",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Leona.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/320x320-Leona.jpg"
+    },
+    {
+      "name": "كاكا",
+      "time": "08.12 6:00AM",
+      "title": "التعريف عن قصة نوري شاربا",
+      "desc": "رحلة لانقاذ الآخرين في نيبال",
+      "link": "/trekking",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kaka.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/grid-kaka.png"
+    }
+  ],
+  "gridCelebCoords": [
+    { "x": 0, "y": 0 },
+    { "x": 5, "y": 0 },
+    { "x": 2, "y": 1 },
+    { "x": 4, "y": 2 },
+    { "x": 0, "y": 3 },
+    { "x": 6, "y": 3 }
+  ],
+  "gridDonorCoords": [
+    { "x": 2, "y": 0 },
+    { "x": 3, "y": 0 },
+    { "x": 4, "y": 0 },
+    { "x": 7, "y": 0 },
+    { "x": 4, "y": 1 },
+    { "x": 7, "y": 1 },
+    { "x": 0, "y": 2 },
+    { "x": 1, "y": 2 },
+    { "x": 6, "y": 2 },
+    { "x": 7, "y": 2 },
+    { "x": 2, "y": 3 },
+    { "x": 3, "y": 3 },
+    { "x": 2, "y": 4 },
+    { "x": 3, "y": 4 },
+    { "x": 4, "y": 4 },
+    { "x": 5, "y": 4 }
+  ],
+  "gridCelebCoordsMobile": [
+    { "x": 0, "y": 0 },
+    { "x": 1, "y": 1 },
+    { "x": 0, "y": 2 },
+    { "x": 2, "y": 3 },
+    { "x": 0, "y": 4 },
+    { "x": 2, "y": 6 }
+  ],
+  "gridDonorCoordsMobile": [
+    { "x": 1, "y": 0 },
+    { "x": 2, "y": 0 },
+    { "x": 0, "y": 1 },
+    { "x": 2, "y": 1 },
+    { "x": 1, "y": 2 },
+    { "x": 2, "y": 2 },
+    { "x": 0, "y": 3 },
+    { "x": 1, "y": 3 },
+    { "x": 1, "y": 4 },
+    { "x": 2, "y": 4 },
+    { "x": 0, "y": 5 },
+    { "x": 1, "y": 5 },
+    { "x": 2, "y": 5 },
+    { "x": 0, "y": 6 },
+    { "x": 1, "y": 6 },
+    { "x": 0, "y": 7 }
+  ]
+}

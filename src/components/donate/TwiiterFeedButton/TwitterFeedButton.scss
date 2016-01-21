@@ -1,0 +1,37 @@
+@import '../../variables.scss';
+
+.TwitterFeedButton {
+
+  &.button {
+    width: 270px;
+    border-radius: 4px !important;
+    background: $white-base url('http://res.cloudinary.com/hadpuw6bl/donate/button-twitter-icon-hover.png') no-repeat 15% 48% !important;
+    padding: 22px 22px 22px 65px;
+    margin: 20px 60px;
+    font-size: 12px;
+    text-transform: uppercase;
+    display:inline-block;
+    border: 1px solid $white-base;
+    background: $white-base;
+    color: $un-blue-text;
+    &.active {
+      background: $un-blue-bg url('http://res.cloudinary.com/hadpuw6bl/donate/button-twitter-icon.png') no-repeat 15% 48% !important;
+      color: $white-base;
+      cursor: default;
+    }
+  }
+
+  &.button:hover {
+    background: $un-blue-bg url('http://res.cloudinary.com/hadpuw6bl/donate/button-twitter-icon.png') no-repeat 15% 48% !important;
+    color: $white-base;
+    border: 1px solid $white-base;
+    &.active {
+      background: $un-blue-bg;
+      color: $white-base;
+      cursor: default;
+      border: 1px solid $white-base;
+    }
+  }
+
+  border-radius: 4px 0 0 4px !important;
+}

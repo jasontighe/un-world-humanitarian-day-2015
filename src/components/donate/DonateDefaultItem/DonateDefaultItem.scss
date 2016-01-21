@@ -1,0 +1,16 @@
+@import '../../variables';
+
+.DonateDefaultItem {
+  p {
+    font-size: 14px;
+    color: $un-blue-text;
+    display: inline-block;
+    display: inline-block;
+    &.desc {
+      margin: 0;
+    }
+  }
+  img {
+    margin: 10px 0 0 0;
+  }
+}

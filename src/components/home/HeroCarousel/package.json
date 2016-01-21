@@ -1,0 +1,6 @@
+{
+  "name": "HeroCarousel",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./HeroCarousel.js"
+}

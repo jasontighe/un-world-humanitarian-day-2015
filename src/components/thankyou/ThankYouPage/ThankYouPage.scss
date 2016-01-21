@@ -1,0 +1,18 @@
+@import '../../variables';
+
+.ThankYouPage {
+  .title-row {
+    text-align: center;
+    background-color: #1cace3;
+    padding: 177px 0 30px 0;
+    h1{
+      font-family: 'montserratlight', san-serif;
+      color: #fff;
+    }
+  }
+  .content{
+    font-family: 'montserratregular', san-serif;
+    color: #1cace3;
+    padding: 40px 80px;
+  }
+}

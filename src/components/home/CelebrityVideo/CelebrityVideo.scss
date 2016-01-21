@@ -1,0 +1,58 @@
+#CelebrityVideo {
+  //background: #9900FF;/* Box with fixed aspect ratio */
+
+  -webkit-transition: all 0.45s ease-out;
+  -moz-transition: all 0.45s ease-out;
+  -ms-transition: all 0.45s ease-out;
+  transition: all 0.45s ease-out;
+  max-height: 0;
+  overflow: hidden;
+  position: relative;
+
+  &.open{
+    max-height: 1000px;
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -ms-transition: all 1s ease-out;
+    transition: all 1s ease-out;    
+  }
+
+  iframe{
+    border: 0;
+  }
+
+  #celeb-video-close{
+    position: absolute;
+    top: 60px;
+    right: 80px;
+    width: 37px;
+    height: 36px;
+    background: url("/images/home/video_close.png") no-repeat;
+    z-index: 1000;
+    cursor: pointer;
+  }
+
+  .ratioBox {
+    position: relative !important;
+    width: 100% !important;
+  }
+
+  .ratioBox:before{
+    content: "";
+    display: block !important;
+    padding-top: 100% !important; 	/* initial ratio of 1:1*/
+  }
+
+  .ratioContent {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    bottom: 0 !important;
+    right: 0 !important;
+  }
+
+  .ratio16_9:before{
+    padding-top: 56.25% !important;
+  }
+  /* Box with fixed aspect ratio */
+}

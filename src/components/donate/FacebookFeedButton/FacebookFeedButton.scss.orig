@@ -1,0 +1,56 @@
+<<<<<<< HEAD
+=======
+@import '../../styles/buttons.scss';
+>>>>>>> b557654d0d24f90b81392c1734930f75d41a9074
+@import '../../variables.scss';
+
+.FacebookFeedButton {
+
+  &.button {
+    width: 270px;
+    border-radius: 4px 0 0 4px !important;
+    background: $un-blue-bg url('/images/donate/button-facebook-icon.png') no-repeat 85% 48% !important;
+    padding: 22px 65px 22px 25px;
+    margin: 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    display:inline-block;
+    border: 1px solid $white-base;
+    background: $un-blue-bg;
+    color: $white-base;
+    &.active {
+      background: $white-base url('/images/donate/button-facebook-icon-hover.png') no-repeat 85% 48% !important;
+      color: $un-blue-text;
+      cursor: default;
+    }
+  }
+
+  &.button:hover {
+    background: $white-base url('/images/donate/button-facebook-icon-hover.png') no-repeat 85% 48% !important;
+    color: $un-blue-text;
+    border: 1px solid $white-base;
+    border-right: 1px solid $un-blue-bg !important;
+    &.active {
+      background: $white-base;
+      color: $un-blue-text;
+      cursor: default;
+      border: 1px solid $white-base;
+    }
+  }
+
+  border-radius: 4px 0 0 4px !important;
+  padding-right: 65px !important;
+  padding-left: 25px !important;
+  background: $un-blue-bg url('/images/donate/button-facebook-icon.png') no-repeat 85% 48% !important;
+  &.active {
+    background: $white-base url('/images/donate/button-facebook-icon-hover.png') no-repeat 85% 48% !important;
+  }
+}
+<<<<<<< HEAD
+=======
+
+.FacebookFeedButton:hover {
+  background: $white-base url('/images/donate/button-facebook-icon-hover.png') no-repeat 85% 48% !important;
+  border-right: 1px solid $un-blue-bg !important;
+}
+>>>>>>> b557654d0d24f90b81392c1734930f75d41a9074

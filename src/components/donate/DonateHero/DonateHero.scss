@@ -1,0 +1,38 @@
+@import '../../variables';
+
+@font-face {
+  font-family: 'montserratlight';
+  src: url('/fonts/montserrat-light-webfont.eot');
+  src: url('/fonts/montserrat-light-webfont.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/montserrat-light-webfont.woff2') format('woff2'),
+  url('/fonts/montserrat-light-webfont.woff') format('woff'),
+  url('/fonts/montserrat-light-webfont.ttf') format('truetype'),
+  url('/fonts/montserrat-light-webfont.svg#montserratlight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.DonateHero {
+  color: $white-base;
+  background: $un-blue-bg;
+  text-align: center;
+  padding: 110px 0 0 0;
+  transition: all 0.5s linear;
+  .DonateHeroButtons{
+  	  padding-bottom: 88px;
+  }
+  h1 {
+  	font-family: 'montserratlight', Arial, sans-serif;
+    color: $white-base;
+    text-transform: uppercase;
+    font-size: 40px;
+  }
+  p{
+  	font-size: 15px;
+  	font-family: 'montserratlight', Arial, sans-serif;
+  }
+  &.collapse{
+  	//max-height: 0;
+    height: 180px;
+  }
+}

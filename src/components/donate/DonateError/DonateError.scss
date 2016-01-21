@@ -1,0 +1,67 @@
+@import '../../variables';
+
+.DonateError {
+  color:$un-blue-text;
+  h3 {
+    margin: 0;
+    padding: 60px 0 50px 0;
+    text-transform: uppercase;
+    font-size: 28px;
+    color:$un-blue-text;
+    text-align: center;
+  }
+  .button {
+    width: 270px;
+    border-radius: 4px;
+    background: $un-blue-bg;
+    padding: 22px 0;
+    margin: 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    display:inline-block;
+    border: 1px solid $white-base;
+    background: $un-blue-bg;
+    color: $white-base;
+    &.active {
+      background: $white-base;
+      color: $un-blue-text;
+      cursor: default;
+    }
+  }
+
+  .button:hover {
+    background: $white-base;
+    color: $un-blue-text;
+    border: 1px solid $un-blue-bg;
+    &.active {
+      background: $white-base;
+      color: $un-blue-text;
+      cursor: default;
+      border: 1px solid $white-base;
+    }
+  }
+
+  .tryAgainButton {
+    width: 270px;
+    border-radius: 4px 0 0 4px;
+    background: $un-blue-bg;
+    padding: 22px 0;
+    margin: 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    display:inline-block;
+    border: 1px solid $white-base;
+    background: $un-blue-bg;
+    color: $white-base;
+    &.active {
+      background: $white-base;
+      color: $un-blue-text;
+    }
+  }
+
+  .tryAgainButton:hover {
+    background: $white-base;
+    color: $un-blue-text;
+    border: 1px solid $un-blue-bg;
+  }
+}

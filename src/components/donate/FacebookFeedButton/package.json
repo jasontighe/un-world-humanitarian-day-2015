@@ -1,0 +1,6 @@
+{
+  "name": "FacebookFeedButton",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./FacebookFeedButton.js"
+}

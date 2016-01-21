@@ -1,0 +1,6 @@
+{
+  "name": "DonatePostMenu",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DonatePostMenu.js"
+}

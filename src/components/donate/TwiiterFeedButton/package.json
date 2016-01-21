@@ -1,0 +1,6 @@
+{
+  "name": "TwitterFeedButton",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./TwitterFeedButton.js"
+}

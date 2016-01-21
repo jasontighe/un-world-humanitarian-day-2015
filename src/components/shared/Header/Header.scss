@@ -1,0 +1,18 @@
+/* React Starter Kit | MIT License | http://www.reactstarterkit.com/ */
+
+@import '../../variables.scss';
+
+.Header {
+  position: absolute;
+  z-index: 10;
+  width: 100%;
+  background: transparent;
+  .logo {
+    margin: 30px 0 0 30px;
+  }
+
+  //.Header-nav {
+  //  float: right;
+  //  margin-top: 6px;
+  //}
+}

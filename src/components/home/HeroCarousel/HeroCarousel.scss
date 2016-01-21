@@ -1,0 +1,275 @@
+@import '../../variables';
+
+/* FONTS INCLUDE Start. ***********************************************************************/
+@font-face {
+  font-family: 'montserratbold';
+  src: url('/fonts/montserrat-bold-webfont.eot');
+  src: url('/fonts/montserrat-bold-webfont.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/montserrat-bold-webfont.woff2') format('woff2'),
+  url('/fonts/montserrat-bold-webfont.woff') format('woff'),
+  url('/fonts/montserrat-bold-webfont.ttf') format('truetype'),
+  url('/fonts/montserrat-bold-webfont.svg#montserratbold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'montserratregular';
+  src: url('/fonts/montserrat-regular-webfont.eot');
+  src: url('/fonts/montserrat-regular-webfont.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/montserrat-regular-webfont.woff2') format('woff2'),
+  url('/fonts/montserrat-regular-webfont.woff') format('woff'),
+  url('/fonts/montserrat-regular-webfont.ttf') format('truetype'),
+  url('/fonts/montserrat-regular-webfont.svg#montserratregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'montserratlight';
+  src: url('/fonts/montserrat-light-webfont.eot');
+  src: url('/fonts/montserrat-light-webfont.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/montserrat-light-webfont.woff2') format('woff2'),
+  url('/fonts/montserrat-light-webfont.woff') format('woff'),
+  url('/fonts/montserrat-light-webfont.ttf') format('truetype'),
+  url('/fonts/montserrat-light-webfont.svg#montserratlight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* FONTS INCLUDE End. ***********************************************************************/
+
+.HeroCarousel {
+  //background: #00FF32;
+  color: $white-base;
+  margin-bottom: 100px;
+  .slick-arrow{
+    z-index: 100;
+  }
+  .slick-dots {
+    display: none !important;
+  }
+  .content-overlay{
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    text-align: center;
+    top: 40%;
+    transform: translateY(-50%);
+    margin: 0 auto;
+    width: inherit;
+
+    img {
+      display: inline-block;
+      border: 2px solid $white-base;
+      border-radius: 1000px;
+      -webkit-border-radius: 1000px;
+      -moz-border-radius: 1000px;
+      border-radius: 1000px;
+    }
+    p {
+      font-size: 18px;
+      margin: 0;
+    }
+    .title {
+      font-size: 40px;
+      line-height: 1em;
+      color: $white-base;
+      padding: 15px 0 0 0;
+      line-height: 1.1em;
+      font-family: 'montserratlight', san-serif;
+    }
+  }
+  .overlayButtons {
+    position: absolute;
+    z-index: 12;
+    top: 67%;
+    text-align: center;
+    width: 100%;
+  }
+  .button {
+    width: 270px;
+    border-radius: 6px;
+    background: $un-blue-bg;
+    padding: 22px 0;
+    margin: 0;
+    font-size: 12px;
+    font-family: 'montserratbold', san-serif;
+    text-transform: uppercase;
+    display: inline-block;
+    border: 1px solid $white-base;
+    background: $un-blue-bg;
+    color: $white-base;
+    &.active {
+      background: $white-base;
+      color: $un-blue-text;
+      cursor: default;
+    }
+    &.carouselBtn {
+      width: 240px;
+    }
+  }
+
+  .button:hover {
+    background: $white-base;
+    color: $un-blue-text;
+    border: 1px solid $un-blue-bg;
+    &.active {
+      background: $white-base;
+      color: $un-blue-text;
+      cursor: default;
+      border: 1px solid $white-base;
+    }
+  }
+
+  .donateBtn {
+    margin: 0 16px 0 0;
+    padding: 21px 21px 21px 25px;
+    /* background: $un-blue-bg url('/images/home/button-stopwatch-icon.png') no-repeat 85% 40% !important; */
+    border: 2px solid $un-blue-bg;
+    float: right;
+  }
+
+  .donateBtn:hover {
+    /* background: transparent url('/images/home/button-stopwatch-icon.png') no-repeat 85% 40% !important; */
+    background: none;
+    color: $white-base;
+    border: 2px solid $white-base;
+  }
+
+  .followBtn {
+    margin: 0 0 0 16px;
+    padding: 21px 21px 21px 25px;
+    /* background: transparent url('/images/home/button-arrow-icon.png') no-repeat 82% 50% !important; */
+    border: 2px solid $white-base;
+    background: none;
+    float: left;
+  }
+
+  .followBtn:hover {
+    /* background: $un-blue-bg url('/images/home/button-arrow-icon.png') no-repeat 82% 50% !important; */
+    border: 2px solid $un-blue-bg;
+    color: $white-base !important;
+    background: $un-blue-bg;
+  }
+
+  .custom-slick-dots-nav {
+    z-index: 10;
+    position:absolute;
+    bottom: -40px;
+    display: inline-block;
+    list-style: none;
+    display: block;
+    text-align: center;
+    padding: 0;
+    width: 100%;
+    .custom-dot-nav-item {
+      position:relative;
+      display: inline-block;
+      width: 120px;
+      cursor: pointer;
+      img {
+        -webkit-border-radius: 1000px;
+        -moz-border-radius: 1000px;
+        border-radius: 1000px;
+        &.selected{
+          border: 3px solid $un-blue-text;
+        }
+      }
+      .name {
+        color: $un-blue-text;
+        text-transform: uppercase;
+        font-size: 10px;
+        padding-top: 15px;
+        font-family: 'montserratbold', san-serif;
+      }
+    }
+  }
+
+
+.fadeAll15 {
+  -webkit-transition: all 0.15s ease-in-out;
+  -moz-transition: all 0.15s ease-in-out;
+  -ms-transition: all 0.15s ease-in-out;
+  -o-transition: all 0.15s ease-in-out;
+  transition: all 0.15s ease-in-out;
+}
+
+  //**********************************************
+  // 'react-slick' overrides
+  //**********************************************
+  .slick-prev, .slick-next {
+    width: 21px;
+    height:35px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+  .slick-prev {
+    left: 70px;
+    top: 58%;
+  }
+  .slick-next {
+    right: 70px;
+    top: 58%;
+  }
+}
+
+.noBoxShadow {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .HeroCarousel {
+    margin-bottom: 0;
+    .slick-dots {
+      display: block !important;
+    }
+    .content-overlay {
+      img {
+        width: 10vw
+      }
+      .title {
+        font-size: 5vw;
+      }
+    }
+    .custom-slick-dots-nav, .slick-arrow {
+      display: none !important;
+    }
+    .donateBtn, .followBtn {
+      //padding: 3vw 10vw 3vw 3vw;
+      float: none;
+    }
+    .donateBtn {
+      margin: 0;
+      background-size: 4.4vw !important;
+    }
+    .followBtn {
+      margin: 15px 0 0 0;
+      background-size: 1.8vw !important;
+    }
+    .overlayButtons {
+      top: 70%;
+    }
+    .button {
+      border-radius: 3px;
+      font-size: 2.2vw;
+      &.carouselBtn {
+        width: 40vw;
+      }
+    }
+  }
+}
+
+@media (min-width:769px) and (max-width:1279px){
+  .HeroCarousel {
+    .content-overlay{
+      .title {
+        font-size: 3vw;
+      }
+    }
+  }
+}

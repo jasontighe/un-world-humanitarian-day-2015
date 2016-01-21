@@ -1,0 +1,6 @@
+{
+  "name": "DonateHero",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DonateHero.js"
+}

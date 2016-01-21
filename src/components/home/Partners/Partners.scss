@@ -1,0 +1,31 @@
+@import '../../variables';
+
+/* FONTS INCLUDE Start. ***********************************************************************/
+@font-face {
+  font-family: 'montserratlight';
+  src: url('/fonts/montserrat-light-webfont.eot');
+  src: url('/fonts/montserrat-light-webfont.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/montserrat-light-webfont.woff2') format('woff2'),
+  url('/fonts/montserrat-light-webfont.woff') format('woff'),
+  url('/fonts/montserrat-light-webfont.ttf') format('truetype'),
+  url('/fonts/montserrat-light-webfont.svg#montserratlight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* FONTS INCLUDE End. ***********************************************************************/
+
+.Partners {
+  //background: #FFAC00;
+  padding: 0 0 110px 0;
+  .title {
+    color: $un-blue-text;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'montserratlight', san-serif;
+    text-transform: uppercase;
+  }
+  .logo {
+    text-align: center;
+    margin: 0 auto;
+  }
+}

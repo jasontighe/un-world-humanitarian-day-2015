@@ -1,0 +1,6 @@
+{
+  "name": "CelebrityVideo",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CelebrityVideo.js"
+}

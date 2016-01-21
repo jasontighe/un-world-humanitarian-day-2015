@@ -1,0 +1,208 @@
+@import '../../variables.scss';
+
+/* FONTS INCLUDE Start. ***********************************************************************/
+@font-face {
+  font-family: 'montserratbold';
+  src: url('/fonts/montserrat-bold-webfont.eot');
+  src: url('/fonts/montserrat-bold-webfont.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/montserrat-bold-webfont.woff2') format('woff2'),
+  url('/fonts/montserrat-bold-webfont.woff') format('woff'),
+  url('/fonts/montserrat-bold-webfont.ttf') format('truetype'),
+  url('/fonts/montserrat-bold-webfont.svg#montserratbold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'montserratregular';
+  src: url('/fonts/montserrat-regular-webfont.eot');
+  src: url('/fonts/montserrat-regular-webfont.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/montserrat-regular-webfont.woff2') format('woff2'),
+  url('/fonts/montserrat-regular-webfont.woff') format('woff'),
+  url('/fonts/montserrat-regular-webfont.ttf') format('truetype'),
+  url('/fonts/montserrat-regular-webfont.svg#montserratregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'montserratlight';
+  src: url('/fonts/montserrat-light-webfont.eot');
+  src: url('/fonts/montserrat-light-webfont.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/montserrat-light-webfont.woff2') format('woff2'),
+  url('/fonts/montserrat-light-webfont.woff') format('woff'),
+  url('/fonts/montserrat-light-webfont.ttf') format('truetype'),
+  url('/fonts/montserrat-light-webfont.svg#montserratlight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+}
+/* FONTS INCLUDE End. ***********************************************************************/
+
+.CelebrityCell {
+  background: $un-blue-bg;
+  //border: 1px solid #FF0032;
+  box-sizing: border-box;
+  display: inline-block;
+  width: 100%;
+  position: absolute;
+
+  .overlay {
+    z-index: 20;
+    position: absolute;
+    bottom: 25px;
+    text-align: center;
+    width: 100%;
+  }
+  .overState {
+    z-index: 20;
+    position: absolute;
+    top: 0;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background: $un-blue-bg;
+    padding: 10px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    -moz-opacity: 0;
+    -khtml-opacity: 0;
+    opacity: 0;
+    cursor: default;
+    img {
+      border-radius: 1000px;
+      -webkit-border-radius: 1000px;
+      -moz-border-radius: 1000px;
+      margin: 0 0 20px 0;
+    }
+  }
+
+  .overState:hover {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    -moz-opacity: 1;
+    -khtml-opacity: 1;
+    opacity: 1;
+    cursor: default;
+  }
+
+  .name, .time {
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    line-height: 1.1em;
+    color: $white-base;
+    font-size: 16px;
+  }
+
+  .name {
+    font-family: 'montserratbold', san-serif;
+  }
+
+  .time {
+    font-family: 'montserratlight', san-serif;
+  }
+
+  .title {
+    margin: 0;
+    padding: 0;
+    line-height: 1.2em;
+    color: $white-base;
+    font-size: 17px;
+  }
+
+  .desc {
+    margin: 0;
+    padding: 0;
+    line-height: 1.2em;
+    color: $white-base;
+    font-size: 25px;
+    text-transform: uppercase;
+  }
+
+  .desc {
+    font-family: 'montserratbold', san-serif;
+  }
+
+  .title {
+    font-family: 'montserratlight', san-serif;
+  }
+
+  .vertAlign {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .ratioBox {
+    position: relative;
+    width: 100%;
+  }
+
+  .ratioBox:before{
+    content: "";
+    display: block;
+    padding-top: 100%; 	/* initial ratio of 1:1*/
+  }
+
+  .ratioContent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+
+  .ratio1_1:before{
+    padding-top: 100%;
+  }
+  /* Box with fixed aspect ratio */
+
+  .fadeAll25 {
+    -webkit-transition: all 0.25s ease-in-out;
+    -moz-transition: all 0.25s ease-in-out;
+    -ms-transition: all 0.25s ease-in-out;
+    -o-transition: all 0.25s ease-in-out;
+    transition: all 0.25s ease-in-out;
+  }
+}
+
+
+@media only screen and (max-width: 768px) {
+  .CelebrityCell {
+    .name, .time {
+      font-size: 2vw;
+    }
+    .title {
+      font-size: 1.8vw;
+    }
+    .desc {
+      font-size: 2.2vw;
+    }
+    .overState {
+      img {
+        width: 10vw;
+        margin: 0 0 10px 0;
+      }
+    }
+  }
+}
+
+@media (min-width:769px) and (max-width:1279px){
+  .CelebrityCell {
+    .name, .time {
+      font-size: 1.3vw;
+    }
+    .title {
+      font-size: 1.5vw;
+    }
+    .desc {
+      font-size: 2vw;
+    }
+    .overState {
+      img {
+        width: 7vw;
+      }
+    }
+  }
+}

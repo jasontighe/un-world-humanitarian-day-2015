@@ -1,0 +1,34 @@
+@import '../../variables.scss';
+
+.button {
+  width: 270px;
+  border-radius: 4px;
+  background: $white-base url('http://res.cloudinary.com/hadpuw6bl/donate/button-weibo-icon.png') no-repeat 20% 48% !important;
+  padding: 22px 22px 22px 65px;
+  margin: 20px 60px;
+  font-size: 12px;
+  text-transform: uppercase;
+  display:inline-block;
+  border: 1px solid $white-base;
+  background: $white-base;
+  color: $un-blue-text;
+  &.active {
+    color: $white-base;
+    cursor: default;    
+    background: $white-base url('http://res.cloudinary.com/hadpuw6bl/donate/button-weibo-icon.png') no-repeat 20% 48% !important;
+  }
+}
+
+.button:hover {
+  background: $un-blue-text url('http://res.cloudinary.com/hadpuw6bl/donate/button-weibo-icon.png') no-repeat 20% 48% !important;
+  color: $white-base;
+  border: 1px solid $white-base;
+  border-right: 1px solid $un-blue-bg !important;
+  &.active {
+    background: $un-blue-bg;
+    color: $white-base;
+    cursor: default;
+    border: 1px solid $white-base;
+  }
+}
+

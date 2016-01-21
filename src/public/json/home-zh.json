@@ -1,0 +1,321 @@
+{
+  "carouselDonateCopy": "贡献您的社交媒体动态消息",
+  "carouselFollowCopy": "关注此故事",
+  "counterDesc": "关于人道主义故事的社交媒体动态消息",
+  "counterHeadline": "#ShareHumanity並加入所有誰已經捐贈了他們的供稿人",
+  "donateFeedCTA": "贡献您的社交媒体动态消息",
+  "videoYouTubeID": "o1--l9VjUbk",
+  "emailTitle": "注册获取更多信息",
+  "emailDesc": "“人道主义使者”是一个由希望用自身影响力改变世界的人士组成的网上社区。他们认同社交媒体的力量，并且明白公众意识是推动行动的第一步。他们利用社交网络向大众提出需要讨论的问题。",
+  "emailPlaceholder": "您的电子邮件地址",
+  "emailCTA": "提交",
+  "emailThankYou": "谢谢",
+  "footerAbout": "关于世界人道主义日",
+  "footerDonate": "向紧急应急基金捐赠",
+  "footerFollow": "关注我们",
+  "partners": "合作伙伴",
+  "partnerLinks": [
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/OCHA.jpg",
+      "alt": "OCHA",
+      "link": "http://www.unocha.org/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/UnitedNations.png",
+      "alt": "united nations foundation",
+      "link": "http://www.unfoundation.org/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/OgilvyOne.png",
+      "alt": "Ogilvy One",
+      "link": "https://www.ogilvyone.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Buzzfeed.png",
+      "alt": "Buzzfeed",
+      "link": "http://www.buzzfeed.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/CNN-Money.png",
+      "alt": "CNN money",
+      "link": "http://money.cnn.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/DailyMail.png",
+      "alt": "Dailymail.com elite daily",
+      "link": "http://www.dailymail.co.uk/ushome/index.html"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/exponential.png",
+      "alt": "expotential",
+      "link": "http://exponential.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Hogarth.png",
+      "alt": "Hogarth",
+      "link": "http://www.hogarthww.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Kinetic.png",
+      "alt": "Kinetic",
+      "link": "http://kineticww.com/us/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Global-Citizen.png",
+      "alt": "Global citizen",
+      "link": "https://www.globalcitizen.org/en/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/CNN.png",
+      "alt": "CNN",
+      "link": "http://www.cnn.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Verifone-Media.png",
+      "alt": "verifone media",
+      "link": "http://www.verifonemedia.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Social-Toaster.png",
+      "alt": "Social toaster",
+      "link": "http://www.socialtoaster.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Sprefast.png",
+      "alt": "Spredfast",
+      "link": "https://www.spredfast.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/TimeInc.png",
+      "alt": "Time inc",
+      "link": "http://www.timeinc.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Yahoo.png",
+      "alt": "Yahoo",
+      "link": "https://www.yahoo.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/ADIANT.png",
+      "alt": "ADIANT",
+      "link": "http://www.adiant.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/ICVA.png",
+      "alt": "ICVA",
+      "link": "https://icvanetwork.org/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Brand-Cities.png",
+      "alt": "Branded Cities New York",
+      "link": "http://brandedcities.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Citizen-AOL.png",
+      "alt": "Citizen AOL",
+      "link": "http://corp.aol.com/our-values/corporate-citizenship"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/HerokuLogo.jpg",
+      "alt": "Heroku",
+      "link": "https://www.heroku.com/home"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/izea_logo_black.jpg",
+      "alt": "IZEA",
+      "link": "https://izea.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/H_O.jpg",
+      "alt": "H&O",
+      "link": "http://www.ogilvy.com/About/Network/HO.aspx"
+    }
+  ],
+  "carousel": [
+    {
+      "firstName": "郎朗",
+      "lastName": "",
+      "title": "郎朗发出他的社交媒体消息，讲述卡奇博士的故事。 尼泊尔地震之后。",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-LangLang.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-LangLang.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-nepal-stroke.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-nepal-stroke-mobile.jpg",
+      "navCopy": "向贡献他的社交媒体消息",
+      "navCopyName": "卡奇博士",
+      "link": "/surviving"
+    },
+    {
+      "firstName": "Cody",
+      "lastName": "Simpson",
+      "role": "",
+      "title": "Cody Simpson发出他的社交媒体消息，讲述Thair的故事。 从大马士革到柏林：一位叙利亚难民的故事。",
+      "profileImage": " http://res.cloudinary.com/hadpuw6bl/home/64x64-CodySimpson.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-CodySimpson.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-damascus.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-damascus-mobile.jpg",
+      "navCopy": "向贡献他的社交媒体消息",
+      "navCopyName": "Thair Orfahli",
+      "link": "/damascus"
+    },
+    {
+      "firstName": "Ricardo",
+      "lastName": "Kaká",
+      "title": "Kaká发出他的社交媒体消息，讲述Nuri Sherpa的故事。 打通尼泊尔的生命线。",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kaka.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kaka.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-nepal-mountain.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-nepal-mountain-mobile.jpg",
+      "navCopy": "向贡献他的社交媒体消息",
+      "navCopyName": "Nuri Sherpa",
+      "link": "/trekking"
+    },
+    {
+      "firstName": "Leona",
+      "lastName": "Lewis",
+      "title": "Leona发出她的社交媒体消息，讲述Khaled Farah的故事。 乍得，在旱灾中生存。",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Leona.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Leona.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-miracle-baby.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-miracle-baby-mobile.jpg",
+      "navCopy": "向贡献她的社交媒体消息",
+      "navCopyName": "Khaled Farah",
+      "link": "/whitehelmets"
+    },
+    {
+      "firstName": "Shay",
+      "lastName": "Mitchell",
+      "title": "Shay发出她的社交媒体消息，讲述奥利佛的故事。 欢迎来到“滑板斯坦”。",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Shay.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Shay.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-skateistan.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-skateistan-mobile.jpg",
+      "navCopy": "向贡献她的社交媒体消息",
+      "navCopyName": "奥利佛",
+      "link": "/skateistan"
+    },
+    {
+      "firstName": "Kenna",
+      "lastName": "",
+      "title": "Kenna发出他的社交媒体消息，讲述Anwar Abujesh的故事。 约旦难民营中的马戏团。",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kenna.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kenna.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-circus.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-circus-mobile.jpg",
+      "navCopy": "向贡献他的社交媒体消息",
+      "navCopyName": "Anwar Abujesh",
+      "link": "/circus"
+    }
+  ],
+  "celebYoutubeID": {
+      "beyonce": "k4YRWT_Aldo",
+      "drake": "CccnAvfLPvE"
+  },
+  "gridCelebrities": [
+    {
+      "name": "Cody Simpson",
+      "time": "08.12 6:00AM",
+      "title": "讲述Thair的故事",
+      "desc": "从大马士革到柏林：一位叙利亚难民的故事",
+      "link": "/damascus",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-CodySimpson.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/grid-cody-simpson.png"
+    },
+    {
+      "name": "Kenna",
+      "time": "08.12 6:00AM",
+      "title": "讲述Anwar的故事",
+      "desc": "约旦难民营中的马戏团",
+      "link": "/circus",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kenna.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/320x320-Kenna.jpg"
+    },
+    {
+      "name": "郎朗",
+      "time": "08.12 6:00AM",
+      "title": "讲述卡奇博士的故事",
+      "desc": "尼泊尔地震之后",
+      "link": "/surviving",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-LangLang.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/grid-lang-lang.png"
+    },
+    {
+      "name": "Shay",
+      "time": "08.12 6:00AM",
+      "title": "讲述奥利佛的故事",
+      "desc": "欢迎来到“滑板斯坦”",
+      "link": "/skateistan",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Shay.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/320x320-Shay.jpg"
+    },
+    {
+      "name": "Kaká",
+      "time": "08.12 6:00AM",
+      "title": "讲述Nuri Sherpa的故事",
+      "desc": "打通尼泊尔的生命线",
+      "link": "/trekking",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Leona.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/320x320-Leona.jpg"
+    },
+    {
+      "name": "Leona Lewis",
+      "time": "08.12 6:00AM",
+      "title": "讲述Khaled的故事",
+      "desc": "乍得，在旱灾中生存",
+      "link": "/whitehelmets",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Placeholder.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/320x320-Placeholder.jpg"
+    }
+  ],
+  "gridCelebCoords": [
+    { "x": 0, "y": 0 },
+    { "x": 5, "y": 0 },
+    { "x": 2, "y": 1 },
+    { "x": 4, "y": 2 },
+    { "x": 0, "y": 3 },
+    { "x": 6, "y": 3 }
+  ],
+  "gridDonorCoords": [
+    { "x": 2, "y": 0 },
+    { "x": 3, "y": 0 },
+    { "x": 4, "y": 0 },
+    { "x": 7, "y": 0 },
+    { "x": 4, "y": 1 },
+    { "x": 7, "y": 1 },
+    { "x": 0, "y": 2 },
+    { "x": 1, "y": 2 },
+    { "x": 6, "y": 2 },
+    { "x": 7, "y": 2 },
+    { "x": 2, "y": 3 },
+    { "x": 3, "y": 3 },
+    { "x": 2, "y": 4 },
+    { "x": 3, "y": 4 },
+    { "x": 4, "y": 4 },
+    { "x": 5, "y": 4 }
+  ],
+  "gridCelebCoordsMobile": [
+    { "x": 0, "y": 0 },
+    { "x": 1, "y": 1 },
+    { "x": 0, "y": 2 },
+    { "x": 2, "y": 3 },
+    { "x": 0, "y": 4 },
+    { "x": 2, "y": 6 }
+  ],
+  "gridDonorCoordsMobile": [
+    { "x": 1, "y": 0 },
+    { "x": 2, "y": 0 },
+    { "x": 0, "y": 1 },
+    { "x": 2, "y": 1 },
+    { "x": 1, "y": 2 },
+    { "x": 2, "y": 2 },
+    { "x": 0, "y": 3 },
+    { "x": 1, "y": 3 },
+    { "x": 1, "y": 4 },
+    { "x": 2, "y": 4 },
+    { "x": 0, "y": 5 },
+    { "x": 1, "y": 5 },
+    { "x": 2, "y": 5 },
+    { "x": 0, "y": 6 },
+    { "x": 1, "y": 6 },
+    { "x": 0, "y": 7 }
+  ]
+}

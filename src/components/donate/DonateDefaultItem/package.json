@@ -1,0 +1,6 @@
+{
+  "name": "DonateDefaultItem",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DonateDefaultItem.js"
+}

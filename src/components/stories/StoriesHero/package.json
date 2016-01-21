@@ -1,0 +1,6 @@
+{
+  "name": "StoriesHero",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./StoriesHero.js"
+}

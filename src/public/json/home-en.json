@@ -1,0 +1,321 @@
+{
+  "carouselDonateCopy": "Donate Your Feed",
+  "carouselFollowCopy": "Follow The Story",
+  "counterDesc": "Posts used to tell humanitarian stories",
+  "counterHeadline": "#SHAREHUMANITY and join all the people who have already donated their feeds",
+  "donateFeedCTA": "Donate your feed",
+  "videoYouTubeID": "o1--l9VjUbk",
+  "emailTitle": "Sign up for Messengers of Humanity",
+  "emailDesc": "Messengers of Humanity is an online community of people who want to make a difference. They recognize the power of social media and know awareness is the first step in driving action. They use their social networks to tell people about those issues that need to take action and make a difference to the world we live in.",
+  "emailPlaceholder": "Your email address",
+  "emailThankYou": "Thank You",
+  "emailCTA": "Submit",
+  "footerAbout": "About WHD",
+  "footerDonate": "Give to the Emergency Response Fund",
+  "footerFollow": "Follow us",
+  "partners": "Partners",
+  "partnerLinks": [
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/OCHA.jpg",
+      "alt": "OCHA",
+      "link": "http://www.unocha.org/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/UnitedNations.png",
+      "alt": "united nations foundation",
+      "link": "http://www.unfoundation.org/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/OgilvyOne.png",
+      "alt": "Ogilvy One",
+      "link": "https://www.ogilvyone.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Buzzfeed.png",
+      "alt": "Buzzfeed",
+      "link": "http://www.buzzfeed.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/CNN-Money.png",
+      "alt": "CNN money",
+      "link": "http://money.cnn.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/DailyMail.png",
+      "alt": "Dailymail.com elite daily",
+      "link": "http://www.dailymail.co.uk/ushome/index.html"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/exponential.png",
+      "alt": "expotential",
+      "link": "http://exponential.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Hogarth.png",
+      "alt": "Hogarth",
+      "link": "http://www.hogarthww.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Kinetic.png",
+      "alt": "Kinetic",
+      "link": "http://kineticww.com/us/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Global-Citizen.png",
+      "alt": "Global citizen",
+      "link": "https://www.globalcitizen.org/en/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/CNN.png",
+      "alt": "CNN",
+      "link": "http://www.cnn.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Verifone-Media.png",
+      "alt": "verifone media",
+      "link": "http://www.verifonemedia.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Social-Toaster.png",
+      "alt": "Social toaster",
+      "link": "http://www.socialtoaster.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Sprefast.png",
+      "alt": "Spredfast",
+      "link": "https://www.spredfast.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/TimeInc.png",
+      "alt": "Time inc",
+      "link": "http://www.timeinc.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Yahoo.png",
+      "alt": "Yahoo",
+      "link": "https://www.yahoo.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/ADIANT.png",
+      "alt": "ADIANT",
+      "link": "http://www.adiant.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/ICVA.png",
+      "alt": "ICVA",
+      "link": "https://icvanetwork.org/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Brand-Cities.png",
+      "alt": "Branded Cities New York",
+      "link": "http://brandedcities.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/Citizen-AOL.png",
+      "alt": "Citizen AOL",
+      "link": "http://corp.aol.com/our-values/corporate-citizenship"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/HerokuLogo.jpg",
+      "alt": "Heroku",
+      "link": "https://www.heroku.com/home"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/izea_logo_black.jpg",
+      "alt": "IZEA",
+      "link": "https://izea.com/"
+    },
+    {
+      "image": "http://res.cloudinary.com/hadpuw6bl/home/partners/H_O.jpg",
+      "alt": "H&O",
+      "link": "http://www.ogilvy.com/About/Network/HO.aspx"
+    }
+  ],
+  "carousel": [
+    {
+      "firstName": "Lang",
+      "lastName": "Lang",
+      "title": "Lang Lang donated his feed to tell Dr.Karch's story: Surviving the Nepal Quake.",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-LangLang.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-LangLang.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-nepal-stroke.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-nepal-stroke-mobile.jpg",
+      "navCopy": "Donating His Feed To",
+      "navCopyName": "Dr.Karch",
+      "link": "/surviving"
+    },
+    {
+      "firstName": "Cody",
+      "lastName": "Simpson",
+      "role": "",
+      "title": "Cody Simpson donated his feed to tell Thair's story: From Damascus to Berlin: a story of Syrian survival.",
+      "profileImage": " http://res.cloudinary.com/hadpuw6bl/home/64x64-CodySimpson.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-CodySimpson.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-damascus.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-damascus-mobile.jpg",
+      "navCopy": "Donating His Feed To",
+      "navCopyName": "Thair Orfahli",
+      "link": "/damascus"
+    },
+    {
+      "firstName": "Ricardo",
+      "lastName": "Kaká",
+      "title": "Ricardo Kaká donated his feed to tell Nuri Sherpa’s story: Trekking to save lives in Nepal.",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kaka.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kaka.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-nepal-mountain.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-nepal-mountain-mobile.jpg",
+      "navCopy": "Donating His Feed To",
+      "navCopyName": "Nuri Sherpa",
+      "link": "/trekking"
+    },
+    {
+      "firstName": "Leona",
+      "lastName": "Lewis",
+      "title": "Leona Lewis donated her feed to tell Khaled's story: Baby in the rubble: Syria's White Helmets.",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Leona.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Leona.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-miracle-baby.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-miracle-baby-mobile.jpg",
+      "navCopy": "Donating Her Feed To",
+      "navCopyName": "Khaled Farah",
+      "link": "/whitehelmets"
+    },
+    {
+      "firstName": "Shay",
+      "lastName": "Mitchell",
+      "title": "Shay Mitchell donated her feed to tell Oliver’s story: Welcome to Skateistan.",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Shay.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Shay.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-skateistan.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-skateistan-mobile.jpg",
+      "navCopy": "Donating Her Feed To",
+      "navCopyName": "Oliver",
+      "link": "/skateistan"
+    },
+    {
+      "firstName": "Kenna",
+      "lastName": "",
+      "title": "Kenna donated his feed to tell Anwar's story: Juggling in Jordan.",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kenna.jpg",
+      "navImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kenna.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-circus.png",
+      "mobileImage": "http://res.cloudinary.com/hadpuw6bl/home/carousel-circus-mobile.jpg",
+      "navCopy": "Donating His Feed To",
+      "navCopyName": "Anwar Abujesh",
+      "link": "/circus"
+    }
+  ],
+  "celebYoutubeID": {
+    "beyonce": "k4YRWT_Aldo",
+    "drake": "CccnAvfLPvE"
+  },
+  "gridCelebrities": [
+    {
+      "name": "Cody Simpson",
+      "time": "08.12 6:00AM",
+      "title": "Telling Thair's Story",
+      "desc": "From Damascus to Berlin: a story of Syrian survival",
+      "link": "/damascus",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-CodySimpson.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/grid-cody-simpson.png"
+    },
+    {
+      "name": "Kenna",
+      "time": "08.12 6:00AM",
+      "title": "Telling Anwar's Story",
+      "desc": "Juggling in Jordan",
+      "link": "/circus",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kenna.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/320x320-Kenna.jpg"
+    },
+    {
+      "name": "Lang Lang",
+      "time": "08.12 6:00AM",
+      "title": "Telling Dr. Karch's Story",
+      "desc": "Surviving the Nepal Quake",
+      "link": "/surviving",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-LangLang.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/grid-lang-lang.png"
+    },
+    {
+      "name": "Shay Mitchell",
+      "time": "08.12 6:00AM",
+      "title": "Telling Oliver's Story",
+      "desc": "Welcome to Skateistan",
+      "link": "/skateistan",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Shay.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/320x320-Shay.jpg"
+    },
+    {
+      "name": "Leona Lewis",
+      "time": "08.12 6:00AM",
+      "title": "Telling Khaled's Story",
+      "desc": "Baby in the rubble: Syria's White Helmets",
+      "link": "/whitehelmets",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Leona.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/320x320-Leona.jpg"
+    },
+    {
+      "name": "Ricardo Kaká",
+      "time": "08.12 6:00AM",
+      "title": "Telling Nuri Sherpa's Story",
+      "desc": "Trekking to save lives in Nepal",
+      "link": "/trekking",
+      "profileImage": "http://res.cloudinary.com/hadpuw6bl/home/64x64-Kaka.jpg",
+      "backgroundImage": "http://res.cloudinary.com/hadpuw6bl/home/grid-kaka.png"
+    }
+  ],
+  "gridCelebCoords": [
+    { "x": 0, "y": 0 },
+    { "x": 5, "y": 0 },
+    { "x": 2, "y": 1 },
+    { "x": 4, "y": 2 },
+    { "x": 0, "y": 3 },
+    { "x": 6, "y": 3 }
+  ],
+  "gridDonorCoords": [
+    { "x": 2, "y": 0 },
+    { "x": 3, "y": 0 },
+    { "x": 4, "y": 0 },
+    { "x": 7, "y": 0 },
+    { "x": 4, "y": 1 },
+    { "x": 7, "y": 1 },
+    { "x": 0, "y": 2 },
+    { "x": 1, "y": 2 },
+    { "x": 6, "y": 2 },
+    { "x": 7, "y": 2 },
+    { "x": 2, "y": 3 },
+    { "x": 3, "y": 3 },
+    { "x": 2, "y": 4 },
+    { "x": 3, "y": 4 },
+    { "x": 4, "y": 4 },
+    { "x": 5, "y": 4 }
+  ],
+  "gridCelebCoordsMobile": [
+    { "x": 0, "y": 0 },
+    { "x": 1, "y": 1 },
+    { "x": 0, "y": 2 },
+    { "x": 2, "y": 3 },
+    { "x": 0, "y": 4 },
+    { "x": 2, "y": 6 }
+  ],
+  "gridDonorCoordsMobile": [
+    { "x": 1, "y": 0 },
+    { "x": 2, "y": 0 },
+    { "x": 0, "y": 1 },
+    { "x": 2, "y": 1 },
+    { "x": 1, "y": 2 },
+    { "x": 2, "y": 2 },
+    { "x": 0, "y": 3 },
+    { "x": 1, "y": 3 },
+    { "x": 1, "y": 4 },
+    { "x": 2, "y": 4 },
+    { "x": 0, "y": 5 },
+    { "x": 1, "y": 5 },
+    { "x": 2, "y": 5 },
+    { "x": 0, "y": 6 },
+    { "x": 1, "y": 6 },
+    { "x": 0, "y": 7 }
+  ]
+}
