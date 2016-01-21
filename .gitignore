@@ -8,4 +8,6 @@ npm-debug.log
 .tmp
 *.iml
 
+**/.idea/
 .DS_Store
+.*
